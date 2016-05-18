@@ -1,0 +1,28 @@
+td{
+  height: 50px;
+  width: 50px;
+  background-color: gray;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
+
+td:hover{
+  background-color: lightgray;
+}
+
+.hitByTorpedo{
+  background-color: red;
+}
+
+.hitByTorpedo:hover{
+  background-color: red;
+}
+
+.showShip{
+  color: yellow;
+}
+
+.showShip:hover{
+  color: yellow;
+}
